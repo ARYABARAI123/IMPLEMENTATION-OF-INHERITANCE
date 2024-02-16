@@ -1,0 +1,9 @@
+package Assignment_6;
+public interface Interface_stk
+{
+public void push(int element);
+public int pop();
+public void displayStack();
+public boolean overflow();
+public boolean underflow();
+}
