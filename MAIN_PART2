@@ -1,0 +1,14 @@
+package Assignment_6;
+
+public class Main_part2
+{
+	public static void main(String[] args) 
+	{
+		
+		Result_part2 res = new Result_part2("Arya", 020, 85, 96);
+		
+		System.out.println(res.display());
+		
+	}
+
+}
